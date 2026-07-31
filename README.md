@@ -3,7 +3,7 @@
 A stylish landing page with animated background, audio, clickable intro screen, and glitch effects.  
 Perfect for creating a strong first impression.
 
-Live demo: [https://great.thug4ff.com/](https://great.thug4ff.com/)
+Live demo: [https://10v-pito.vercel.app/](https://10v-pito.vercel.app/)
 
 ## Features
 
