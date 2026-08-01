@@ -1,4 +1,4 @@
-/* Styles supplémentaires pour Great THUG */
+/* Styles supplémentaires pour 10V PITO */
 
 /* Effet de néon pour le titre */
 .neon-text {
@@ -368,3 +368,17 @@
     80% { transform: translate(2px, -2px); }
     100% { transform: translate(0); }
 }
+/* Kick icon */
+.social-icon {
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+    filter: brightness(0) invert(1);
+    transition: all 0.3s ease;
+}
+
+.socials a:hover .social-icon {
+    transform: scale(1.2);
+    filter: none;
+}
+
